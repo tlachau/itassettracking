@@ -1,0 +1,8 @@
+Title,Details,Priority,Location,Area,Status
+Replace end-of-life access switches at Riverside,Three 2530 switches are past vendor support; quote CX 6100 replacements.,High,Riverside Plant,Network,Open
+Enable MFA for remaining shop-floor accounts,Seven accounts still without MFA; schedule enrollment with supervisors.,Critical,Headquarters,Accounts,Open
+Collect laptops from terminated users,Two devices still assigned to terminated users.,High,Headquarters,Assets,Open
+Test backup restore of ERP database,Quarterly restore test to the test VM.,Medium,Headquarters,Backup,Open
+Label printer driver standardization,Move all label printers to one driver version.,Low,Hillcrest Plant,Printing,Open
+Wi-Fi survey of Lakeview racking aisles,Dead spots reported in aisles 12-18.,Medium,Lakeview Warehouse,Wireless,In Progress
+Retire old file server share,Migrate remaining departments to SharePoint.,Medium,Headquarters,Servers,Done

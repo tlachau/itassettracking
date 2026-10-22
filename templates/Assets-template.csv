@@ -1,0 +1,3 @@
+Name,Category,AssetType,Location,AssignedTo,SharedUse,Make,Model,SerialNumber,IPAddress,Quantity,Status,InServiceYear,PurchaseDate,WarrantyEnd,ClassKey,Notes
+LAPTOP-0001,Computers,Assigned endpoint,Main Office,Jane Example,,Dell,Latitude 5450,ABC1234,,1,In Use,2025,2025-03-01,2028-03-01,laptop,
+SW-CORE-01,Network,Core switch,Main Office,,Core switching,Aruba,CX 6300,SG00000000,10.0.0.2,1,In Use,2023,,,core_switch,

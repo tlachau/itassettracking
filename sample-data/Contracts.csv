@@ -1,0 +1,13 @@
+Title,Vendor,AccountNumber,ServiceId,Category,Cost,Billing,TermMonths,LastRenewal,NextRenewal,AutoRenew,QuoteAmount,QuoteTermMonths,QuoteNotes,Location,Contact
+Microsoft 365 Business Premium,Microsoft,632351,,Software Subscription,1650,Monthly,1,2026-10-01,2026-11-01,True,,,,,Account rep
+Internet - Headquarters (1 Gbps fiber),Lakeshore Fiber,908320,CKT-80748,Connectivity,899,Monthly,36,2024-05-01,2027-05-01,True,,,,Headquarters,Account rep
+Internet - Riverside Plant (500 Mbps),Lakeshore Fiber,975686,CKT-79013,Connectivity,650,Monthly,36,2023-12-15,2026-12-15,False,,,,Riverside Plant,Account rep
+SD-WAN backup links,Northline Wireless,139581,CKT-96760,Connectivity,240,Monthly,12,2026-02-01,2027-02-01,True,,,,,Account rep
+Firewall support and threat services,Fortinet partner,453123,,Support Renewal,6400,Annual,12,2025-11-30,2026-11-30,False,7100,12,Renewal quote received,,Account rep
+Server and storage support,Rackline Services,903531,,Support Renewal,18900,Multi-year,36,2024-06-30,2027-06-30,False,21500,36,Renewal quote received,Headquarters,Account rep
+Backup and DR service,ClearPath Backup,748052,,Service,5200,Annual,12,2025-10-15,2026-10-15,False,,,,Headquarters,Account rep
+Endpoint protection (110 seats),Ironclad Security,237414,,Software Subscription,7480,Annual,12,2026-01-20,2027-01-20,True,,,,,Account rep
+Copier lease - 4 MFPs,CopyPro Leasing,726258,,Lease,980,Monthly,60,2023-03-31,2028-03-31,False,,,,,Account rep
+ERP maintenance,ERP vendor,495019,,Maintenance,42000,Annual,12,2026-04-01,2027-04-01,False,,,,,Account rep
+Hosted phone service (60 seats),Summit Voice,261745,,Service,1140,Monthly,36,2024-08-31,2027-08-31,True,,,,,Account rep
+Domain and SSL certificates,NameHost,270128,,Licensing,420,Annual,12,2025-12-02,2026-12-02,True,,,,,Account rep

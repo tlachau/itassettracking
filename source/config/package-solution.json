@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "IT Asset Tracker",
+    "id": "b9fb6c3d-954c-4cf1-859b-e4fcb9db9acd",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "IT Asset Tracker contributors",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.23.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "IT asset tracker and replacement budget"
+      },
+      "longDescription": {
+        "default": "Tracks IT assets, people, locations, spares, contracts and renewals in SharePoint lists, and plans hardware replacement budgets from device age and lifecycle."
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "IT Asset Tracker",
+        "description": "Adds the IT Asset Tracker web part.",
+        "id": "34377757-98f5-460d-b4ab-2f84fa3cc4d5",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/it-asset-tracker.sppkg"
+  }
+}

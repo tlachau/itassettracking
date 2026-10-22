@@ -1,0 +1,53 @@
+Name,PersonKey,JobTitle,Login,Location,Status,O365,MFA,VPN,AV
+Ethan Hargrove,p-1,Customer Service Rep,ehargrove,Headquarters,Employed,True,False,False,True
+Ruth Fairbanks,p-2,Controller,rfairbanks,Headquarters,Employed,False,True,False,False
+Hayden Aldridge,p-3,Marketing Coordinator,haldridge,Headquarters,Employed,True,True,False,True
+Rowan Winterbourne,p-4,Customer Service Rep,rwinterbourne,Headquarters,Terminated,True,True,False,True
+Quinn Whitcombe,p-5,Accounts Payable Clerk,qwhitcombe,Headquarters,Employed,True,False,False,True
+Hannah Fairbanks,p-6,Credit Analyst,hfairbanks,Headquarters,Employed,True,True,False,True
+Taylor Castellano,p-7,Inside Sales Rep,tcastellano,Headquarters,Employed,True,False,False,True
+Daniel Easterbrook,p-8,Sales Manager,deasterbrook,Headquarters,Employed,True,True,True,True
+Holly Stanhope,p-9,Operations Director,hstanhope,Headquarters,Employed,True,True,False,True
+Ethan Winterbourne,p-10,Operations Director,ewinterbourne,Headquarters,Employed,True,True,False,True
+Elena Ashby,p-11,Purchasing Manager,eashby,Headquarters,Employed,True,True,True,True
+Isaac Ashby,p-12,Operations Director,iashby,Headquarters,Terminated,True,True,False,True
+Maria Coventry,p-13,Accounts Payable Clerk,mcoventry,Headquarters,Employed,True,True,True,True
+Jamie Donnelly,p-14,Payroll Specialist,jdonnelly,Headquarters,Employed,True,False,True,True
+Hannah Zelinski,p-15,Systems Administrator,hzelinski,Headquarters,Employed,True,True,True,False
+Reese Vasquez-Lin,p-16,Inside Sales Rep,rvasquezlin,Headquarters,Terminated,True,True,False,True
+Caleb Abernathy,p-17,Executive Assistant,cabernathy,Headquarters,Leave,True,True,False,True
+Ethan Thornbury,p-18,Marketing Coordinator,ethornbury,Headquarters,Employed,True,False,True,True
+Mateo Abernathy,p-19,Quality Technician,mabernathy,Riverside Plant,Employed,False,True,True,True
+Marcus Pemberton,p-20,Safety Coordinator,mpemberton,Riverside Plant,Employed,True,False,False,True
+Ruth Everhart,p-21,Quality Technician,reverhart,Riverside Plant,Terminated,True,False,False,True
+Emerson Kingsley,p-22,Maintenance Lead,ekingsley,Riverside Plant,Employed,True,True,True,True
+Mateo Dunmore,p-23,Maintenance Lead,mdunmore,Riverside Plant,Employed,False,False,True,True
+Avery Ellingsworth,p-24,Plant Manager,aellingsworth,Riverside Plant,Employed,True,True,True,True
+Blake Ravensworth,p-25,Maintenance Lead,bravensworth,Riverside Plant,Employed,True,True,True,True
+Blake Fitzwilliam,p-26,Scheduler,bfitzwilliam,Riverside Plant,Employed,True,False,False,True
+Caleb Blackwood,p-27,Production Supervisor,cblackwood,Riverside Plant,Employed,False,True,True,True
+Hayden Marchetti,p-28,Quality Engineer,hmarchetti,Riverside Plant,Employed,True,True,False,True
+Sofia Gutierrez-Moss,p-29,Production Lead,sgutierrezmoss,Riverside Plant,Employed,False,True,False,False
+Blake Kowalczyk,p-30,Quality Technician,bkowalczyk,Riverside Plant,Employed,True,True,False,True
+Hannah Quintero,p-31,Quality Technician,hquintero,Riverside Plant,Terminated,True,True,True,True
+Gavin Aldridge,p-32,Maintenance Lead,galdridge,Riverside Plant,Employed,True,True,True,True
+Elena Delacroix,p-33,Quality Technician,edelacroix,Riverside Plant,Employed,True,True,False,True
+Jamie Lindqvist,p-34,Production Supervisor,jlindqvist,Hillcrest Plant,Employed,True,True,False,True
+Blake Nakashima,p-35,Production Supervisor,bnakashima,Hillcrest Plant,Employed,True,True,False,True
+Emerson Treadwell,p-36,Maintenance Technician,etreadwell,Hillcrest Plant,Employed,True,False,True,True
+Taylor Abernathy,p-37,Production Supervisor,tabernathy,Hillcrest Plant,Employed,False,True,False,True
+Taylor Pemberton,p-38,Quality Technician,tpemberton,Hillcrest Plant,Employed,True,True,False,True
+Fiona Iverson,p-39,Shipping Clerk,fiverson,Hillcrest Plant,Employed,True,False,True,True
+Quinn Coventry,p-40,Shipping Clerk,qcoventry,Hillcrest Plant,Employed,True,True,False,True
+Maria Holloway,p-41,Plant Manager,mholloway,Hillcrest Plant,Employed,False,True,False,False
+Drew Redfield,p-42,Quality Technician,dredfield,Hillcrest Plant,Unknown,True,True,False,False
+Taylor Winterbourne,p-43,Plant Manager,twinterbourne,Hillcrest Plant,Terminated,True,True,False,True
+Marcus Yamamura,p-44,Plant Manager,myamamura,Hillcrest Plant,Terminated,True,True,False,True
+Theo Brightwater,p-45,Quality Technician,tbrightwater,Hillcrest Plant,Unknown,True,True,False,True
+Skyler Brightwater,p-46,Shipping Lead,sbrightwater,Lakeview Warehouse,Employed,True,True,True,True
+Rowan Fitzwilliam,p-47,Receiving Clerk,rfitzwilliam,Lakeview Warehouse,Employed,True,True,False,True
+Caleb Whitcombe,p-48,Inventory Analyst,cwhitcombe,Lakeview Warehouse,Employed,True,True,False,True
+Taylor Everhart,p-49,Logistics Coordinator,teverhart,Lakeview Warehouse,Employed,True,True,False,True
+Reese Quintero,p-50,Shipping Lead,rquintero,Lakeview Warehouse,Employed,False,True,False,True
+Owen Oyelaran,p-51,Warehouse Manager,ooyelaran,Lakeview Warehouse,Unknown,True,True,False,True
+Avery Iverson,p-52,Logistics Coordinator,aiverson,Lakeview Warehouse,Terminated,True,True,True,True
